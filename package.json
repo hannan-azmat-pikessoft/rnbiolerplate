@@ -1,0 +1,8 @@
+{
+  "name": "rnbiolerplate",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "repository": "git@github.com:hannan753/rnbiolerplate.git",
+  "author": "M Hannan Azmat <hannan.azmat@pikessoft.com>",
+  "license": "MIT"
+}
